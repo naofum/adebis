@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<widget id="AdebisWidget.widget.AdebisWidget" needsEntityContext="false" xmlns="http://www.mendix.com/widget/1.0/">
+    <name>AdebisWidget</name>
+    <description>The description of this widget.</description>
+
+    <icon />
+
+    <properties>
+        <property key="argument" type="string" required="false" defaultValue="">
+            <caption>Argument</caption>
+            <category>Preference</category>
+            <description></description>
+        </property>
+    </properties>
+</widget>
